@@ -11,22 +11,24 @@ https://github.com/siseboy/junichi
 
 主题预览为本站：
 
-https://www.uefeng.com
+https://uefeng.com
+
+![image](https://oh34w4h6l.qnssl.com/screenshot.jpg)
 
 ####主题亮点
 
  - 无jQuery，无前端框架，轻量级
  - InstantClick实现PJAX无刷新操作
  - Prismjs代码高亮集成
- - 响应式设计，手机浏览效果更棒
+ - 响应式设计
  - 支持图片CDN
  - 支持社交按钮，但无社交分享
 
-####主题激活
+###主题激活
 
 下载后，重命名文件夹为junichi，然后放到typecho里的theme目录内，进入typecho后台，外观，激活即可。
 
-####主题设置
+###主题设置
 
 进入主题外观设置
 
@@ -34,4 +36,10 @@ https://www.uefeng.com
 
 然后是图片CDN，推荐使用七牛云镜像
 
+主题背景图和头像请直接替换images目录下的图片
 
+缩略名命名为about，建立关于单页，
+
+选择 Archives 的页面模板，缩略名命名为archives，建立归档页，
+
+选择 Links 的页面模板，缩略名命名为links，建立友链页面。
