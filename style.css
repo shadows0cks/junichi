@@ -412,7 +412,9 @@ article .expire-tips {
 }
 
 article .post-info {
-    font-size: 14px
+    padding-top: 15px;
+    font-size: 14px;
+    border-top: 1px dotted #eee;
 }
 
 article .entry-content {
