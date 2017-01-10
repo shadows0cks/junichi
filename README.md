@@ -1,9 +1,8 @@
-###Junichi，Typecho主题
+#Junichi，Typecho主题
 
 Junichi 是 Typecho 的一套主题模板，Junichi 这个主题的名字由来，是因为博主起名实在没天分，所以就用我宝贝儿子的英文名来命名。
 
 主题从2016年11月14日开始制作，现在只是有形无神，正在进一步优化代码和适配功能。
-
 
 下载地址：
 
@@ -15,18 +14,18 @@ https://uefeng.com
 
 ![image](https://oh34w4h6l.qnssl.com/screenshot.jpg)
 
-####主题亮点
+###主题特性
 
  - 无jQuery，无前端框架，轻量级
  - InstantClick实现PJAX无刷新操作
  - Prismjs代码高亮集成
  - 响应式设计
  - 支持图片CDN
- - 支持社交按钮，但无社交分享
+ - 支持社交按钮
 
-###主题激活
+###主题启用
 
-下载后，重命名文件夹为junichi，然后放到typecho里的theme目录内，进入typecho后台，外观，激活即可。
+下载后，重命名文件夹为junichi，然后放到typecho里的theme目录内，进入typecho后台，外观，启用即可。
 
 ###主题设置
 
@@ -43,3 +42,8 @@ https://uefeng.com
 选择 Archives 的页面模板，缩略名命名为archives，建立归档页，
 
 选择 Links 的页面模板，缩略名命名为links，建立友链页面。
+
+
+###注意
+
+本主题免费共享，不提供关于本主题的任何技术支持，或许也不再更新，使用前三思。
