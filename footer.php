@@ -1,6 +1,5 @@
 		<footer id="footer" class="inner">
-			&copy; <?php echo date('Y'); ?> Theme is <a href="https://uefeng.com">Junichi</a> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a> 由 <a href="http://www.typecho.org" target="_blank">Typecho</a> 无力驱动
-
+			&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a> 由 <a href="http://www.typecho.org" target="_blank">Typecho</a> 无力驱动 Theme is <a href="https://uefeng.com">Junichi</a>
 		</footer>
 	</div>
 </div>
