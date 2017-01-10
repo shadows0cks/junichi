@@ -14,13 +14,11 @@
 					<div class="entry-content">	
 	
                         <ul class="links">
-					       <li><i class="iconfont icon-https"></i><a href="https://itlu.org/" target="_blank">挨踢路</a><span class="more">（混迹独立博客圈8年的老博主）</span></li>
+					       <li><i class="iconfont icon-https"></i><a href="https://uefeng.com/" target="_blank">有意</a><span class="more">（IT 民工的折腾记录）</span></li>
 				        </ul>
                        
                         <ul>
-					       <li><a href="http://www.cqnv.com/" target="_blank">重庆游记</a><span class="more">（深藏不露的博士生一个）</span></li>			<li><a href="http://jixufengyu.com/" target="_blank">几许风雨</a><span class="more"></span></li>
-                            <li><a href="http://www.4zen.top/" target="_blank">禅心</a><span class="more">（普通男青年,有点伪文艺）</span></li>      
-					       
+					     
 				        </ul>
 
 					</div>
